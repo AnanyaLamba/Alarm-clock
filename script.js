@@ -73,3 +73,5 @@ clearAlarm.addEventListener('click', ()=>{
     alarmSound.currentTime = 0;
     alarmStatus.innerHTML = ''
 })
+ 
+// js
